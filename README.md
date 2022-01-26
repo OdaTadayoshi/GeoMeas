@@ -1,7 +1,5 @@
 ![](https://gitee.com/huangzhexiaohao/geo-meas/raw/master/README/image-20220110185635682.png)
 
-This project is dedicated to the in depth development of  geometric measurement algorithms. The inspiration is derived from the vision software HALCON.
-
 In the fields of navigation, industrial measurement, surveying and mapping .etc, we need to develop a large number of geometric measurement algorithms, and most of them is reusable. However, few of people tried to classify and arrange them. So we are trying to do something to make it easier for developers based on python.
 
 # Tools
