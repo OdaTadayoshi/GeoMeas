@@ -84,10 +84,3 @@ In the fields of navigation, industrial measurement, surveying and mapping .etc,
 # Tutorial
  Take the project of shield tail clearance measurement system as an example, the calculation flow chart could be shown as below:![盾尾间隙流程](README/盾尾间隙流程.png)
 
-
-
-# Reference
-
-1. http://immersivemath.com/
-
-2. [1]丘维声. 解析几何(第2版)[M]. 北京大学出版社, 1996.
